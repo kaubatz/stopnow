@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "860500772849",
+    "firebase_url": "https://stopnow-nk.firebaseio.com",
+    "project_id": "stopnow-nk",
+    "storage_bucket": "stopnow-nk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860500772849:android:3ace6e7dc3efd1ddefa650",
+        "android_client_info": {
+          "package_name": "kaubatz.com.stop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860500772849-a3qdp3qq128av67gq0dsuuhtct4lvra2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kaubatz.com.stop",
+            "certificate_hash": "0b43f271a17d21c145e012e1f1343f6fb81d20c5"
+          }
+        },
+        {
+          "client_id": "860500772849-7h03ceajotk9ntc6c76qo42j05f7v6d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCGDYHz3XDHPAj6FUFXTS-uYszUpMPWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860500772849-7h03ceajotk9ntc6c76qo42j05f7v6d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
