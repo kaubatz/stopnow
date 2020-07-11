@@ -1,6 +1,8 @@
-# stop
+# STOPnow
 
-App para parar de fumar
+Projeto disciplina de flutter do curso de ADS da Fatec RP
+QUITnow clone, app para parar de fumar feito em flutter
+
 
 ## Getting Started
 
